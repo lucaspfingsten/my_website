@@ -49,3 +49,9 @@ p {
     font-size: 16px;
     color: #444;
 }
+
+.my-image {
+    width: 50px;
+    border-radius: 1px;
+}
+
